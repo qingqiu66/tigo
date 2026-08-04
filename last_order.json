@@ -1,0 +1,58 @@
+{
+  "customer": {
+    "first_name": "Elias",
+    "second_name": "Claudio",
+    "surname": "Navarro",
+    "second_surname": "",
+    "dob": "1989-10-16",
+    "identification": "136236591",
+    "identification_type": "DUI",
+    "gender": null,
+    "identification_issue_date": null,
+    "identification_exp_date": null,
+    "email": null,
+    "contact_phone_number": null,
+    "address": {
+      "state": "SANTA ANA",
+      "city": "SANTA ANA"
+    },
+    "nationality": null,
+    "manual_input": false
+  },
+  "activation": [
+    {
+      "offer": {},
+      "offer_device": {},
+      "resources": [
+        {
+          "parameters": [
+            {
+              "name": "model"
+            },
+            {
+              "name": "imei"
+            },
+            {
+              "name": "icc",
+              "value": "8950303031005240848"
+            },
+            {
+              "name": "msisdn",
+              "value": "45116810"
+            },
+            {
+              "name": "request_id",
+              "value": "0e33914b-53d0-46c1-b320-fb4f31521f55"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "reference_number": "",
+    "date": "",
+    "action": "PREPAID_ACTIVATION",
+    "journey": "activation"
+  }
+}
