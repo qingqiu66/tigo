@@ -1,4 +1,5 @@
-根据Nodeseek [n18255447846](https://www.nodeseek.com/space/19052) 的帖子[免费+503萨尔瓦多eSIM号码激活教程（脚本）](https://www.nodeseek.com/post-855726-1) 逆向结果二次开发、
+根据Nodeseek [n18255447846](https://www.nodeseek.com/space/19052) 的帖子[免费+503萨尔瓦多eSIM号码激活教程（脚本）](https://www.nodeseek.com/post-855726-1) 逆向结果二次开发
+
 脚本内容由AI生成
 
 ![image](https://github.com/qingqiu66/tigo/blob/main/image.png)
